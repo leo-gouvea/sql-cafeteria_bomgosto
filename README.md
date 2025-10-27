@@ -1,3 +1,5 @@
+![SQL](https://img.shields.io/badge/SQL-MySQL%2FPostgreSQL-blue)
+
 # ☕ Sistema de Controle de Vendas - Cafeteria BomGosto
 
 Este projeto implementa o **modelo de banco de dados** para uma cafeteria fictícia chamada **BomGosto**, que deseja registrar suas vendas de café por meio de comandas digitais.  
